@@ -59,7 +59,7 @@ export default function Home() {
         <div className="bg-pink-50 rounded-xl p-4 mt-2 shadow-inner">
           <h3 className="text-rose-500 font-semibold mb-2 text-center"></h3>
           <p className="text-gray-700 text-center italic">
-            " Meu anjo, feliz dia dos namorados, e espero que goste desse
+            &rdquo; Meu anjo, feliz dia dos namorados, e espero que goste desse
             singelo presente, não é nem de longe o que você merece, mas foi a
             minha forma de te mostrar o que eu sinto no dia de hoje.
             <br />
@@ -75,7 +75,7 @@ export default function Home() {
             Obrigado por ser minha companheira parceira e amiga de vida até para
             as maiores palhaçadas.
             <br />
-            Do seu preto, Para Senhora Santos"
+            Do seu preto, Para Senhora Santos&rdquo;
           </p>
         </div>
       </div>
